@@ -10,7 +10,7 @@
             <Label Text="Este es un subtítulo" 
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
-            <Image Source="https://www.taskus.com/wp-content/uploads/2019/05/consumer-pain-points-in-smart-home-technology.jpg"
+            <Image Source="tec.jpg"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand"
                 WidthRequest="200" HeightRequest="200" />

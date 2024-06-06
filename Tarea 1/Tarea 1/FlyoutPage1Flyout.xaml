@@ -7,8 +7,7 @@
     <ContentPage.Content>
         <StackLayout>
             <Button Text="inicio" Clicked="Button_Clicked"></Button>
-            <Button  Clicked="Button_Clicked2" ImageSource="https://forbes.es/wp-content/uploads/2022/11/tecnologia-cambio-futuro-humano.jpg"
-                     WidthRequest="50" HeightRequest="50"></Button>
+            <ImageButton Clicked="Button_Clicked2" Source="tec.jpg"></ImageButton>
         </StackLayout>
     </ContentPage.Content>
 
